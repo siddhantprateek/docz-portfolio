@@ -1,0 +1,18 @@
+.btn {
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    transition: all 1s;
+    border-radius: 5px;
+    outline: none;
+    margin-right: .5rem;
+    width: 8rem;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.btn:active {
+    transform: scale(1);
+}

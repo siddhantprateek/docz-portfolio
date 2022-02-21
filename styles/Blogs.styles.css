@@ -1,0 +1,17 @@
+.blog-ctn {
+    display: flex;
+    margin: 1.5rem;
+    cursor: pointer;
+   
+}
+
+.blog-ctn img {
+    height: 200px;
+    width: 300px;
+    border-radius: 8px;
+}
+
+.blog-content{
+    padding: 1rem;
+    margin-top: -2rem;
+}
