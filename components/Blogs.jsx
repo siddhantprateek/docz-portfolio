@@ -4,22 +4,22 @@ const blog = [
   {
     name: "Blog 1",
     img: "https://i.imgur.com/ZKlq5g1.jpg",
-    route: "blog1",
+    route: "Blog1",
   },
   {
     name: "Blog2",
     img: "https://i.imgur.com/SVqLFMf.jpg",
-    route: "blog2",
+    route: "Blog2",
   },
   {
     name: "Blog 3",
     img: "https://i.imgur.com/gmE6GTT.jpg",
-    route: "blog3",
+    route: "Blog3",
   },
   {
     name: "Blog 4",
     img: "https://i.imgur.com/MFXU8MG.jpg",
-    route: "blog4",
+    route: "Blog4",
   },
 ];
 const Blogs = () => {
