@@ -1,0 +1,24 @@
+<p align="center">
+    <h1> Docz Portfolio Website</h1>
+</p>
+
+![](https://i.imgur.com/eIP98Kb.png)
+
+## Setting Local environement
+
+- Fork the Repository, just clone directly if you are not adding any changes to this repository.
+```shell
+
+git clone https://github.com/siddhantprateek/docz-portfolio
+
+cd docz-portfolio
+
+npm install # install all dependencies
+
+```
+
+- Running on local server
+```shell
+npx docz dev
+
+```
